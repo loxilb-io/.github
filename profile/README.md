@@ -15,7 +15,7 @@
 </div>
 
 
-[stars-shield]: https://img.shields.io/github/stars/loxilb-io/loxilb??style=for-the-badge&logo=appveyor
+[stars-shield]: https://img.shields.io/github/stars/loxilb-io??style=for-the-badge&logo=appveyor
 [stars-url]: https://github.com/loxilb-io/loxilb/stargazers
 [website-shield]: https://img.shields.io/static/v1?label=www&message=loxilb.io&color=blue?style=for-the-badge&logo=appveyor
 [website-url]:  https://www.loxilb.io
