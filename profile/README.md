@@ -22,4 +22,4 @@
 [discussion-shield]: https://img.shields.io/static/v1?label=forum&message=discussions&color=blue?style=for-the-badge&logo=appveyor
 [discussion-url]: https://github.com/loxilb-io/loxilb/discussions
 [docs-shield]: https://img.shields.io/badge/info-docs-blue??style=for-the-badge&logo=appveyor
-[docs-url]: https://github.com/loxilb-io/loxilbdocs
+[docs-url]: https://loxilb-io.github.io/loxilbdocs/
